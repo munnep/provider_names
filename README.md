@@ -14,11 +14,11 @@ See the following documentation [How to install Terraform](https://learn.hashico
 
 - Clone the repository to your local machine
 ```
-git clone https://github.com/munnep/for_each.git
+git clone https://github.com/munnep/provider_names.git
 ```
 - Change your directory
 ```
-cd for_each
+cd provider_names
 ```
 - Terraform initialize
 ```
