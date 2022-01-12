@@ -1,4 +1,3 @@
-# You can specify to download an AWS provider like this. Complete name
 provider "aws" {}
 
 provider "oci" {}
